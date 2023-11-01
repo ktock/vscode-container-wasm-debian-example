@@ -2,7 +2,7 @@
 
 Example of https://github.com/ktock/vscode-container-wasm
 
-1. Open this page on `github.dev`: https://github.dev/ktock/vscode-container-wasm/tree/main/examples/debian?vscode-coi=on (if using `.` shortcut key, you need to add `?vscode-coi=on` query manually in the URL)
+1. Open this repo on `github.dev` : https://github.dev/ktock/vscode-container-wasm-debian-example?vscode-coi=on (if using `.` shortcut key, you need to add `?vscode-coi=on` query manually in the URL)
 2. Install `ktock.container-wasm` extension.
 3. Run `> Run Container On Browser` in the command pallete. Then the container will be launched with the Terminal (can take some time to start the container)
 
@@ -38,3 +38,5 @@ HTTP(S) networking is available in the contaienr with restrictions by the browse
 
 The container is served from [container2wasm-demo](https://github.com/ktock/container2wasm-demo) repo.
 Please see that repo for more information.
+
+For more info about the extension: https://github.com/ktock/vscode-container-wasm
